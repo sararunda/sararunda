@@ -1,7 +1,8 @@
 # <p align="center" >Front-end Developer 👩‍💻 </p>
 
-![cat-coding](https://user-images.githubusercontent.com/64798006/171342628-448665da-ddc6-4846-b5f6-a9aefe17f9e2.gif)
-<p align="center" >![cat-coding](https://user-images.githubusercontent.com/64798006/171342628-448665da-ddc6-4846-b5f6-a9aefe17f9e2.gif)</p>
+<p align= "center">
+<img align= "center" src="https://user-images.githubusercontent.com/64798006/171342628-448665da-ddc6-4846-b5f6-a9aefe17f9e2.gif" >
+</p>
 
 *Hi! I'm Sara,  a frontend programmer looking for a place to continue her training. 
 Feel free to browse my repositories.*
